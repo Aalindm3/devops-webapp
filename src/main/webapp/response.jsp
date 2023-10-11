@@ -25,7 +25,7 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="container">
-          <h1 class="display-3">WebApp v1</h1>
+          <h1 class="display-3">Aalind's WebApp v1</h1>
           <p>
             <span class="badge badge-success">${containerid}</span><br>
             <span class="badge badge-success">${containerip}</span>
